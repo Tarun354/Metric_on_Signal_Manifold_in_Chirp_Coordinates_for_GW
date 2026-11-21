@@ -123,7 +123,7 @@ We work in a **5-dimensional intrinsic parameter space**:
 - **Chirp mass** $\mathcal{M}_c$  
 - **Mass ratio** $\eta = \frac{m_1 m_2}{(m_1 + m_2)^2}$  
 - **Mass asymmetry** $\delta = \frac{m_1 - m_2}{m_1 + m_2}$  
-- **Reduced spin** $\chi = \frac{\chi_1 + \chi_2}{2}$ (assuming $\chi_1 = \chi_2$)  
+- **Reduced spin** $\chi = \frac{\chi_1 + \chi_2}{2}$ (assuming $\chi_1 = \chi_2$ for $m_1 \leq 3$, and $\chi_2 = 0$ otherwise). 
 
 ### Metric Projection
 
